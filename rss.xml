@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[silviaduarte]]></title>
         <description><![CDATA[silviaduarte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/silviaduarte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:57:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 20:57:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/silviaduarte/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sílvia Durte]]></title>
-            <description><![CDATA[<article><h1>Sílvia Durte</h1><p>This is my first post.</p></article>]]></description>
-            <link>undefinedsilvia-durte/index.html</link>
+            <description><![CDATA[<article><h1>Sílvia Durte</h1><p>This is my first post.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72929f8f-64ba-4911-abdd-e2c65039b183.jpg"></article>]]></description>
+            <link>https://thegrid.ai/silviaduarte/silvia-durte/index.html</link>
             <guid isPermaLink="false">67605686-f461-4c3a-bce6-580dfa6a2465</guid>
-            <pubDate>Mon, 14 Mar 2016 20:56:43 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 20:57:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
