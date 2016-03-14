@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[silviaduarte]]></title>
+        <description><![CDATA[silviaduarte]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 20:57:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sílvia Durte]]></title>
+            <description><![CDATA[<article><h1>Sílvia Durte</h1><p>This is my first post.</p></article>]]></description>
+            <link>undefinedsilvia-durte/index.html</link>
+            <guid isPermaLink="false">67605686-f461-4c3a-bce6-580dfa6a2465</guid>
+            <pubDate>Mon, 14 Mar 2016 20:56:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
